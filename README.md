@@ -1,5 +1,8 @@
 [![OSL](http://www.kymjs.com/image/logo_s.png)](http://www.kymjs.com/works/)
 =================
+---
+做了部分UI修改，纳为己用
+---
 
 ## EmojiChat简介
 一个聊天界面，包括从网络下载大表情并使用，图片发送，文字发送，Emoji表情发送，自定义表情键盘，Emoji表情键盘，仿QQ功能键盘等等……  
